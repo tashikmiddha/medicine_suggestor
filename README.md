@@ -77,23 +77,21 @@ Open index.html in your browser or host it on your local server.
 
 📁 Folder Structure
 pgsql
-Copy
-Edit
-medicine-suggestor/
-│
-├── css/
-│   └── styles.css
-├── js/
-│   └── main.js
-├── php/
-│   ├── suggest.php
-│   ├── feedback.php
-│   └── config.php
-├── index.html
-├── doctor-contacts.html
-├── map.html
-├── README.md
-└── sql/
+ medicine-suggestor/
+ │
+ ├── css/
+ │   └── styles.css
+ ├── js/
+ │   └── main.js
+ ├── php/
+ │   ├── suggest.php
+ │   ├── feedback.php
+ │   └── config.php
+ ├── index.html
+ ├── doctor-contacts.html
+ ├── map.html
+ ├── README.md
+ └── sql/
     └── medicine_db.sql
 📣 Contributing
 Contributions are welcome! Feel free to fork the repository and submit a pull request.
